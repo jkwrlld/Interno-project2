@@ -1,0 +1,154 @@
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.join {
+  width: 1200px;
+  height: 414px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
+
+  background: #292f36;
+  border-radius: 70px;
+}
+
+.join-title {
+  /* Wanna join the interno? */
+
+  position: absolute;
+  width: 534px;
+  height: 75px;
+  left: calc(50% - 534px / 2);
+  top: 100px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 75px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #ffffff;
+  padding-top: 9px;
+  padding-bottom: 100px;
+}
+
+.join-text {
+  /* Contact Us & Get a Free Consultation */
+
+  position: absolute;
+  width: 371px;
+  height: 33px;
+  left: calc(50% - 371px / 2 + 0.5px);
+  top: 184px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #ffffff;
+  padding-top: 31px;
+  padding-bottom: 9px;
+}
+
+.join-button {
+  background-image: url("img/image5.webp");
+  box-sizing: border-box;
+
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: 2px solid #292f36;
+
+  /* Vector */
+  /* Frame */
+
+  position: absolute;
+  width: 241px;
+  height: 71px;
+  left: calc(50% - 241px / 2 - 5.5px);
+  top: 248px;
+  padding-top: 95px;
+  padding-bottom: 31px;
+}
+
+.qwe {
+  /* Connect With us */
+
+  position: absolute;
+  width: 140px;
+  height: 27px;
+  left: calc(50% - 140px / 2 - 16.5px);
+  top: 21px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #ffffff;
+  padding-right: 67px;
+  padding-left: 34px;
+}
+
+.photo-ul {
+  list-style: none;
+  display: flex;
+}
+
+.er:not(:last-child) {
+  margin-right: 40px;
+}
+
+.phot {
+  /* IMAGE */
+
+  height: 50px;
+  left: 0%;
+  right: 55%;
+  top: calc(50% - 50px / 2 - 161.8px);
+
+  border-radius: 0px;
+}
+
+.interno-text {
+  /* We are the leading architect and interior design firm in the world. */
+
+  height: 66px;
+  left: 0%;
+  right: 17.12%;
+  top: 65.2px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.ulka {
+  display: flex;
+  list-style: none;
+}
+
+.explore {
+  margin-left: 162px;
+  margin-right: 138px;
+}
