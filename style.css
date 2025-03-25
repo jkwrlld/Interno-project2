@@ -115,6 +115,7 @@
 .photo-ul {
   list-style: none;
   display: flex;
+  padding-top: 31px;
 }
 
 .er:not(:last-child) {
@@ -171,8 +172,127 @@
 
 .mnb {
   display: flex;
+  padding-top: 130px;
 }
 
 .interno-text {
   width: 326px;
+}
+
+.ulty {
+  list-style: none;
+  padding-bottom: 110px;
+}
+
+.po {
+  /* Pages */
+
+  height: 38px;
+  left: -0.17%;
+  right: 69.32%;
+  top: -0.8px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+
+.op {
+  /* Explore */
+
+  height: 38px;
+  left: -0.04%;
+  right: 57.8%;
+  top: -0.8px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+
+.pi {
+  /* Contact */
+
+  height: 38px;
+  left: 0.06%;
+  right: 73.84%;
+  top: -0.8px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+
+.hj {
+  padding-top: 30px;
+}
+
+.cv {
+  /* Style Guide */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.mi {
+  padding-top: 35px;
+  padding-bottom: 36px;
+  text-align: center;
+  /* Copyright © Interno | Designed by */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.zx {
+  /* Victorflow */
+
+  width: 101px;
+  height: 33px;
+  left: calc(50% - 101px / 2 + 9.5px);
+  top: -0.8px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #cda274;
 }
