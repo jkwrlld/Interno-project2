@@ -247,6 +247,7 @@
 }
 
 .cv {
+  width: 114px;
   /* Style Guide */
 
   font-family: "Jost";
@@ -296,4 +297,43 @@
   letter-spacing: 0.22px;
 
   color: #cda274;
+}
+
+.co {
+  width: 321px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.cw {
+  width: 168px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.our {
+  width: 124px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
 }
